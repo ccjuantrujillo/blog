@@ -35,6 +35,7 @@ class ArticuloController {
     }
     
     public function update($request){
+		echo "hol";
         $request = unserialize($request);
         
     }

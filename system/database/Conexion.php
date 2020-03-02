@@ -2,7 +2,7 @@
 abstract class Conexion {
     private $host="localhost";
     private $user="root";
-    private $password="";
+    private $password="950162";
     private $dbname="blog";
     private $pdo = null;
     
